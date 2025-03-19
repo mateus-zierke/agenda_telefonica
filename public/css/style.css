@@ -81,3 +81,36 @@ button {
 button:hover {
     background: #0056b3;
 }
+
+/*Estilo Painel Administrativo*/
+.logout {
+    display: inline-block;
+    padding: 10px;
+    background: #dc3545;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.logout:hover{
+    background: #c82333;
+}
+
+.edit {
+    color: #007bff;
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+.delete {
+    color: #dc3545;
+    text-decoration: none;
+}
+
+.edit:hover {
+    text-decoration: underline;
+}
+
+.delete:hover {
+    text-decoration: underline;
+}
