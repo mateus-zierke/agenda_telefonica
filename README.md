@@ -1,1 +1,2 @@
-# agenda_telefonica
+# Agenda telefônica interna para empresas.
+# Página em desenvolvimento...
